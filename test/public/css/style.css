@@ -1,0 +1,43 @@
+body{
+
+}
+#back1{
+	background-color: #E22121;
+}
+#back2{
+	background-color: #255ADE;
+}
+
+@font-face {
+	font-family: "Krinkes";
+	src: url(../fonts/KrinkesRegularPERSONAL.ttf) format("truetype");
+}
+
+h3 {font-family: "Krinkes";
+	font-size: 60px;
+	color: #F1F1F1;
+}
+
+#button{
+	width: 800px;
+	background-color: #255ADE;
+	color: white;
+}
+
+#email{
+	font-family: "Krinkes";
+	font-size: 30px;	
+}
+
+#drop{
+	width: 800px;
+}
+
+#options{
+	width: 300px;
+}
+
+h5{
+	text-align: center;
+	font-size: 30px;
+}
